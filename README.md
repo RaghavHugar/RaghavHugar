@@ -21,8 +21,12 @@ Product Manager
 ![image](https://github.com/RaghavHugar/RaghavHugar/assets/138858846/617b188c-745b-4bdf-8120-19b321fbc37f)
 ![image](https://github.com/RaghavHugar/RaghavHugar/assets/138858846/e55b29ab-dd27-4d1c-bbd4-ba3575c20be6)
 ![image](https://github.com/RaghavHugar/RaghavHugar/assets/138858846/f1dd0630-86bd-4fb9-bff9-47899db55e32)
-![image](https://github.com/RaghavHugar/RaghavHugar/assets/138858846/8d63dc04-6de9-4e28-a4a3-7e2243956b42)
-![image](https://github.com/RaghavHugar/RaghavHugar/assets/138858846/283b6995-4fcc-4555-85f6-bc284f61054f)
+![image](https://github.com/RaghavHugar/RaghavHugar/assets/138858846/651d1273-2fb0-4d02-8091-b7aa1c7833fc)
+![image](https://github.com/RaghavHugar/RaghavHugar/assets/138858846/30e696c1-101f-4889-a99c-ff321e22dd7f)
+
+
+
+
 
 
 
