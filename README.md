@@ -1,6 +1,6 @@
                                                     ### Hi 👋 My name is Raghav
 
-Product Manager
+**Product Manager**
 
 - 🌍  I'm based in Bangalore, India
   
@@ -13,6 +13,7 @@ Product Manager
 - ⚡ Fun facts: I am a budding stand-up comedian and poet
 
 - 📫 Got something to talk about? - raghavendrahugar1991@gmail.com
+
 
 
 **Languages and Tools:**
