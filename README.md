@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hi 👋 My name is Raghav
 
-<!--
-**RaghavHugar/RaghavHugar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Manager
 
-Here are some ideas to get you started:
+🌍  I'm based in Nottingham
+🧠  I'm learning Python
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
