@@ -1,4 +1,4 @@
-### <p align="center"> Hi there :wave: I'm Raghav
+## <p align="center"> Hi there :wave: I'm Raghav
 
 **Product Manager**
 
