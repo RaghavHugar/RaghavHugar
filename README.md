@@ -1,4 +1,4 @@
-                                                    ### Hi 👋 My name is Raghav
+### <p align="center"> Hi there :wave: I'm Raghav
 
 **Product Manager**
 
