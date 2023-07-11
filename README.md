@@ -26,9 +26,13 @@
 ![image](https://github.com/RaghavHugar/RaghavHugar/assets/138858846/30e696c1-101f-4889-a99c-ff321e22dd7f)
 
 
+My Blogs
 
+- [The Irreplaceable Product Manager: Why AI Falls Short](https://medium.com/@raghavendrahugar1991/the-irreplaceable-product-manager-why-ai-falls-short-c58e63e20509)
 
+- [Collaboration Made Easy: The Advantages of SaaS in Supply Chain Management](https://medium.com/@raghavendrahugar1991/collaboration-made-easy-the-advantages-of-saas-in-supply-chain-management-31f1a1f1be71)
 
+- [The Future of Fulfillment: Emerging Technologies in the Logistics World](https://medium.com/@raghavendrahugar1991/the-future-of-fulfillment-emerging-technologies-in-the-logistics-world-b1c4a0b61ef7)
 
 
 
