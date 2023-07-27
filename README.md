@@ -34,7 +34,11 @@ My Blogs
 
 - [The Future of Fulfillment: Emerging Technologies in the Logistics World](https://medium.com/@raghavendrahugar1991/the-future-of-fulfillment-emerging-technologies-in-the-logistics-world-b1c4a0b61ef7)
 
+- [Beyond Titles: Understanding the Roles of Product Manager and Product Owner](https://medium.com/@raghavhugar/beyond-titles-understanding-the-roles-of-product-manager-and-product-owner-fcc7ce72ae4d)
 
+- [Introverts vs Extroverts in Product Management: Unveiling the Ideal Fit](https://medium.com/@raghavhugar/introverts-vs-extroverts-in-product-management-unveiling-the-ideal-fit-530dbd54a8b9)
+  
+- [Unveiling the Shadows: The Dark Side of Product Management](https://medium.com/@raghavhugar/unveiling-the-shadows-the-dark-side-of-product-management-dff56a35bd92)
 
 
 
